@@ -2,7 +2,7 @@ Hi there 👋, I am
 
 # Kaustav Ray
 
-## A React developer and Organiser for GDG On Campus MSIT 2024.
+## Organiser for GDG On Campus MSIT 2024.
 
 ### An UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology.
 ### Thanks!
